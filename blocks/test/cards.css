@@ -1,8 +1,5 @@
 
-.cards-card-image
+.cards
 {
-    width:1080px;
-    .picture {
-    width:1080px;
-    }
+background-color:red;
 }
